@@ -82,20 +82,24 @@
 	max-width:400px;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size: 14px;
+    opacity:.9;
 }
 
 .description{
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	opacity:.9;
 
 }
 
 .page-header{
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	opacity:.9;
 
 }
 
 .row-header{
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	opacity:.9;
 
 }
 
