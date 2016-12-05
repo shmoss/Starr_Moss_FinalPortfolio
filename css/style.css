@@ -34,7 +34,7 @@
 }
 
 .navbar-header{
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .sub-container{
@@ -138,7 +138,7 @@
 	color: #000;
 	font-size:25px;
 	font-weight: bold;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	/*text-shadow:0px 0px 20px #fff;*/
 
 	visibility: hidden;
@@ -159,7 +159,7 @@
 	position:absolute;
 	display:inline-block;
 	text-align:left;
-	text-indent:-57px;
+	text-indent:-67px;
 	vertical-align:center;
 	padding-top:130px;
 	background: none;
@@ -170,7 +170,7 @@
 
 	visibility: hidden;
 	opacity: 0;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .portfolio-thumbnail:hover .image-overlay-2 {
@@ -187,7 +187,7 @@
 	position:absolute;
 	display:inline-block;
 	text-align:left;
-	text-indent:-60px;
+	text-indent:-70px;
 	vertical-align:center;
 	padding-top:160px;
 	background: none;
@@ -198,7 +198,7 @@
 
 	visibility: hidden;
 	opacity: 0;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .portfolio-thumbnail:hover .image-overlay-3 {
@@ -215,7 +215,7 @@
 	position:absolute;
 	display:inline-block;
 	text-align:left;
-	text-indent:-80px;
+	text-indent:-95px;
 	vertical-align:center;
 	padding-top:130px;
 	background: none;
@@ -226,7 +226,7 @@
 
 	visibility: hidden;
 	opacity: 0;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .portfolio-thumbnail:hover .image-overlay-4 {
@@ -243,7 +243,7 @@
 	position:absolute;
 	display:inline-block;
 	text-align:left;
-	text-indent:-95px;
+	text-indent:-110px;
 	vertical-align:center;
 	padding-top:160px;
 	background: none;
@@ -254,7 +254,7 @@
 
 	visibility: hidden;
 	opacity: 0;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .portfolio-thumbnail:hover .image-overlay-5 {
@@ -271,7 +271,7 @@
 	position:absolute;
 	display:inline-block;
 	text-align:left;
-	text-indent:-75px;
+	text-indent:-95px;
 	vertical-align:center;
 	padding-top:130px;
 	background: none;
@@ -282,7 +282,7 @@
 
 	visibility: hidden;
 	opacity: 0;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .portfolio-thumbnail:hover .image-overlay-6 {
@@ -299,7 +299,7 @@
 	position:absolute;
 	display:inline-block;
 	text-align:left;
-	text-indent:-72px;
+	text-indent:-92px;
 	vertical-align:center;
 	padding-top:160px;
 	background: none;
@@ -310,7 +310,7 @@
 
 	visibility: hidden;
 	opacity: 0;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .portfolio-thumbnail:hover .image-overlay-7 {
@@ -327,14 +327,14 @@
 	position:absolute;
 	display:inline-block;
 	text-align:left;
-	text-indent:-85px;
+	text-indent:-95px;
 	vertical-align:center;
 	padding-top:130px;
 	background: none;
 	color: #000;
 	font-size:25px;
 	font-weight: bold;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	/*text-shadow:0px 0px 20px #fff;*/
 
 	visibility: hidden;
@@ -355,14 +355,14 @@
 	position:absolute;
 	display:inline-block;
 	text-align:left;
-	text-indent:-105px;
+	text-indent:-125px;
 	vertical-align:center;
 	padding-top:130px;
 	background: none;
 	color: #000;
 	font-size:25px;
 	font-weight: bold;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	/*text-shadow:0px 0px 20px #fff;*/
 
 	visibility: hidden;
@@ -383,14 +383,14 @@
 	position:absolute;
 	display:inline-block;
 	text-align:left;
-	text-indent:-73px;
+	text-indent:-93px;
 	vertical-align:center;
 	padding-top:190px;
 	background: none;
 	color: #000;
 	font-size:25px;
 	font-weight: bold;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	/*text-shadow:0px 0px 20px #fff;*/
 
 	visibility: hidden;
@@ -466,8 +466,8 @@
 	position:relative;
 	opacity:.8;
 	max-width:400px;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
-    font-size: 14px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 12px;
 }
 
 @font-face{
@@ -480,7 +480,7 @@
 	text-align:left;
 	text-indent:0px;
 	right:5px;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 
 }
 
@@ -489,7 +489,7 @@
 	padding-left:30px;
 	width:90%;
 	right:5px;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .Englewood-Past-and-Present{
@@ -525,8 +525,7 @@
 .description{
 	text-align:left;
 	padding-left:30px;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
-}
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 
 .jumbotron-container{
 	padding-top:4800px;
@@ -536,13 +535,13 @@
 .heading{
 
 	left:15px;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	
 }
 
 .wooden-ships-heading{
 	text-align:left;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Optima';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .portfolio-thumbnail-woodenships{

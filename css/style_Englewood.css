@@ -13,12 +13,12 @@
 }
 
 .navbar-header{
-	font-family: 'Optima', serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 
 }
 
 .navbar-nav{
-	font-family: 'Optima', serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 
@@ -69,25 +69,25 @@
 	position:relative;
 	opacity:.8;
 	max-width:400px;
-	font-family: 'Optima', serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size: 14px;
 
 }
 
 .description{
-	font-family: 'Optima', serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	
 
 
 }
 
 .page-header{
-	font-family: 'Optima', serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 
 }
 
 .row-header{
-	font-family: 'Optima', serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 
 }
 
