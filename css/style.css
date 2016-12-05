@@ -15,7 +15,9 @@
     list-style-type: circle;
 }
 
-	
+.text-center{
+
+}
 
 
 .portfolio-content{
@@ -40,19 +42,17 @@
 
 .sub-container{
 	font-family: verdana;
+	background-image: url("img/neighborhood3.gif");
+
 	
 }
 
 .navbar-inverse{
-	background-color:blue;
-}
-
-.jumbotron{
-
-	background-image:("img/index.gif");
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
 
 }
+
+
 
 .row{
 	position:center;
@@ -60,14 +60,21 @@
 	
 }
 
-.jumbotron{
+.jumbotron {
+	
+	background-image: url("../assets/cartArt4.png");
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	padding-top:10px;
 	padding-bottom:10px;
 	margin-bottom:5px;
 	opacity:.9;
+	text-shadow: 
+	
 }
 
+
 .container {
+	
 	
 }
 #syria_title {
@@ -532,7 +539,7 @@
 
 .jumbotron-container{
 	padding-top:4800px;
-	opacity:0;
+	
 }
 
 .heading{
